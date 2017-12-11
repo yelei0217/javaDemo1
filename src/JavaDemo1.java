@@ -5,8 +5,6 @@ public class JavaDemo1 {
 
     public static void main(String[] args) {
         System.out.printf("github1");
-        System.out.printf("github12");
-        System.out.printf("github221");
         System.out.printf("123");
     }
 }
